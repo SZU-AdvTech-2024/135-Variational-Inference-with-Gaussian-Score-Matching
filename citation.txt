@@ -1,0 +1,8 @@
+@article{REPO135,
+    author = "Modi, Chirag and Margossian, Charles C. and Yao, Yuling and Gower, Robert Mansel and Blei, David M. and Saul, Lawrence K.",
+    journal = "ArXiv",
+    title = "{Variational Inference with Gaussian Score Matching}",
+    url = "https://api.semanticscholar.org/CorpusID:259936958",
+    volume = "abs/2307.07849",
+    year = "2023"
+}
